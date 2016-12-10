@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_4162db61bde2c3c629280f5d3ee54dee35d85109.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/debug_5151216d268f03d5585fe2445fc6b2e38d81d4f1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/commons-io-2.4_0965d0d72e230855de64986115462ab64054b130.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/gson-2.3_4e7f8126da2c11a8e3bac5f7c2d2979a89657de9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/ailib_0905954b5502cb2c3bb2da95506095325f085c52.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_97066eae2a1e18dbdd62c44e0e7af8ffd6aa3144.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_489eb0a5422395331e6d85fa81e442a3afadcc46.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_2278e0474b3c6a30667a88bca8b25566e2ad8f48.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
